@@ -1,0 +1,8 @@
+[logstash_server]
+192.168.20.12 ansible_user=logstash-server
+
+[elasticsearch_server]
+192.168.122.16 ansible_user=elasticsearch-server
+
+[kibana_server]
+192.168.122.12 ansible_user=kibana-server
